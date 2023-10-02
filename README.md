@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# **go-strap (Coming Soon)**
+# **go-strap (coming soon)**
 
 Hello! I'm new to Go development. **go-strap** is something I've developped (mostly for myself) to "bootstrap" Go apps for use as a back-end server for front-end web apps. It's been a good learning experience. Collaboration and usage is encouraged, subject to the [open source MIT license](https://github.com/go-strap/strap/blob/main/LICENSE). Happy coding!
 
